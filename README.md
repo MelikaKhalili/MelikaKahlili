@@ -17,10 +17,20 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Melika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelikaKhalili&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaKhalili&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MelikaKhalili&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaKhalili&layout=compact&theme=radical" alt="Top Languages" />
+<br />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MelikaKhalili&theme=radical" alt="GitHub Streak" />
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=MelikaKhalili&theme=radical&row=1&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+
+</div>
 
 
 ---
