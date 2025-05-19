@@ -19,12 +19,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&hide_title=true&theme=transparent&icon_color=8b5cf6&text_color=ffffff" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&hide_border=true&theme=transparent&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff" alt="GitHub Streak" width="48%"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=transparent&text_color=ffffff" alt="Top Languages" width="50%" />
-</p>
+![snake gif](https://github.com/MelikaKahlili/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
