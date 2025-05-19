@@ -22,7 +22,9 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MelikaKhalili&show_icons=true&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaKhalili&layout=compact&theme=radical" alt="Top Languages" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MelikaKhalili&theme=radical" alt="GitHub Streak" />
 </div>
 
