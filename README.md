@@ -19,7 +19,11 @@
 
 ### 📊 GitHub Stats
 
-![snake gif](https://github.com/MelikaKahlili/MelikaKhalili/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelikaKhalili&show_icons=true&theme=calm&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaKhalili&theme=calm&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaKhalili&layout=compact&theme=calm&hide_border=true" width="48%" />
+</p>
 
 
 ---
