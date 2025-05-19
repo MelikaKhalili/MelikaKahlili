@@ -19,7 +19,7 @@
 
 ### 📊 GitHub Stats
 
-![snake gif](https://github.com/MelikaKahlili/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MelikaKahlili/MelikaKhalili/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
